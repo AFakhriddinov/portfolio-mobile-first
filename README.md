@@ -39,7 +39,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Toolbar and headline section made responsive for mobile screens of 375px and 768px]**
+- **[Toolbar, headline section and content about works accomplished. The project was made responsive for mobile screens of 375px and 768px]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -54,7 +54,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-Text editor, run commands and browser
+Text editor and internet browser
 
 ### Setup
 
@@ -84,7 +84,6 @@ Clone this repository to your desired folder:
 ## 🔭 Future Features <a name="future-features"></a>
 
 Build desktop version
-Add more content
 Add form section
 Make responsive for other mobile devices
 
