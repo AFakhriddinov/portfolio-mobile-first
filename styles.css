@@ -322,4 +322,8 @@ ul {
     font-size: 40px;
     color: #172b4d;
   }
+
+  .page {
+    margin-top: 110px;
+  }
 }
