@@ -317,4 +317,9 @@ ul {
   .separate-style {
     margin-top: 24px;
   }
+
+  .head {
+    font-size: 40px;
+    color: #172b4d;
+  }
 }
