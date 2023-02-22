@@ -313,4 +313,8 @@ ul {
     font-size: 15px;
     line-height: 20px;
   }
+
+  .separate-style {
+    margin-top: 24px;
+  }
 }
