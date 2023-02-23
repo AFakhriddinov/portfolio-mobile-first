@@ -125,5 +125,7 @@ I would like to thank Microverse team and reviewers who helped me make this proj
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Licence <a name="licence"></a>
-For this project, MIT licence is used. The link to MIT licence is https://github.com/AFakhriddinov/portfolio-mobile-first/blob/main/LICENSE
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./[LICENSE](https://github.com/AFakhriddinov/portfolio-mobile-first/blob/main/LICENSE)) licensed.
+
