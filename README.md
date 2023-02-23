@@ -127,5 +127,5 @@ I would like to thank Microverse team and reviewers who helped me make this proj
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./https://github.com/AFakhriddinov/portfolio-mobile-first/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/AFakhriddinov/portfolio-mobile-first/blob/main/LICENSE) licensed.
 
