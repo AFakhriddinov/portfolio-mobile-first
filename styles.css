@@ -330,13 +330,15 @@ ul {
   .contact-form {
     display: flex;
     flex-direction: column;
-    background-image: url("/images/form-bg.svg");
+    background-image: url("./images/form-bg.svg");
     background-color: #6070ff;
     padding: 0 24px;
     background-repeat: no-repeat;
-    margin-top: 72px;
-    border-radius: 15% 0 0 0;
-    background-size: 100%;
+    background-position-x: right;
+    border-top-left-radius: 92px;
+    background-size: 60%;
+    margin-top: 40px;
+    gap: 20px;
   }
 
   .form-h1 {
@@ -348,7 +350,7 @@ ul {
     font-weight: 700;
   }
 
-  .contact-form {
+  /* .contact-form {
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -359,7 +361,7 @@ ul {
     background-repeat: no-repeat;
     margin-top: 40px;
     border-top-left-radius: 92px;
-  }
+  } */
 
   .contact-tittle {
     padding-top: 100px;
